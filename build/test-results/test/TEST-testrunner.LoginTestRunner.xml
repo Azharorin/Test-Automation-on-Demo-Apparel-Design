@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunner.LoginTestRunner" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-25T19:24:38" hostname="DESKTOP-C84G9OU" time="17.713">
+  <properties/>
+  <testcase name="dologinwithinvalidCreds" classname="testrunner.LoginTestRunner" time="0.779"/>
+  <testcase name="doLogin" classname="testrunner.LoginTestRunner" time="8.184"/>
+  <testcase name="dologinwithinvalidCreds" classname="testrunner.LoginTestRunner" time="0.862"/>
+  <testcase name="doLogin" classname="testrunner.LoginTestRunner" time="3.147"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

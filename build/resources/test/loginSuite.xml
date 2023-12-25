@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<suite name="Test Aparel Design login Automation">
+    <test name="Login with Invalid credentials">
+        <classes>
+            <class name="testrunner.LoginTestRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Login with Valid  credentials">
+        <classes>
+            <class name="testrunner.LoginTestRunner">
+
+            </class>
+        </classes>
+    </test>
+
+</suite>
